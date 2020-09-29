@@ -1,0 +1,6 @@
+F:\ITStep\2 курс\C#\Домашная робота\Overloads\bin\Debug\Overloads.exe.config
+F:\ITStep\2 курс\C#\Домашная робота\Overloads\bin\Debug\Overloads.exe
+F:\ITStep\2 курс\C#\Домашная робота\Overloads\bin\Debug\Overloads.pdb
+F:\ITStep\2 курс\C#\Домашная робота\Overloads\obj\Debug\Overloads.csprojAssemblyReference.cache
+F:\ITStep\2 курс\C#\Домашная робота\Overloads\obj\Debug\Overloads.exe
+F:\ITStep\2 курс\C#\Домашная робота\Overloads\obj\Debug\Overloads.pdb
